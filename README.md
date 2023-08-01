@@ -65,8 +65,10 @@
 ## How to Purchase?
 
 ETH Address: `0x5bBdC61338029d7063Bd4216d7975d7e11c27Eb9`
+
 Email: `hacker@honeypot.boo`
-Send BNB to the specified address, obtain the transaction link, and send via email. Once verified, you will receive the package in an email. You will also receive an explanatory video by email, introducing how to operate and modify smart contracts, how to conduct whitelist verification, how to introduce inflation (minting new tokens to specific addresses), and so on.
+
+Send ETH to the specified address, obtain the transaction link, and send via email. Once verified, you will receive the package in an email. You will also receive an explanatory video by email, introducing how to operate and modify smart contracts, how to conduct whitelist verification, how to introduce inflation (minting new tokens to specific addresses), and so on.
 
 ## Disclaimer
 
