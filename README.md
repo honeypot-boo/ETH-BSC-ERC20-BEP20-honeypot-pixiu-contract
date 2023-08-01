@@ -42,6 +42,8 @@
 - Using hidden functions for contract verification on blockchain browsers
 - Honeypot checker principles, and 5 ways to bypass honeypot detectors
 
+<img src="https://www.honeypot.boo/2023-08-02%2000.26.20.jpg">
+
 ## Pricing
 
 | Content                                                         | Price     |
@@ -50,13 +52,14 @@
 | Honeypot Contract Tutorials and Examples + Beginner + Intermediate Version Implementation | 0.3 eth |
 | Honeypot Contract Tutorials and Examples + Beginner + Intermediate + Advanced Version Implementation | 0.5 eth |
 
-## ERC20 Code Examples
+## Examples
 
+### ERC20
 [Example 1](https://dexscreener.com/base/0xed3d2e85aac07503933a1f813a27fdd0384c9984) | 
 [Example 2](https://www.dextools.io/app/cn/base/pair-explorer/0x12279c46ecce850443ca875948459c231e25b6af) | 
 [Example 3](https://www.dextools.io/app/cn/base/pair-explorer/0xed3d2e85aac07503933a1f813a27fdd0384c9984)
 
-## BEP20 Code Examples
+### BEP20
 
 [Example 1](https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa) | 
 [Example 2](https://www.coinsniper.net/coin/16153) | 
