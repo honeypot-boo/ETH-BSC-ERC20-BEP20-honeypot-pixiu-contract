@@ -1,42 +1,73 @@
-# Best honeypot price on the market | AVAILABLE AGAIN |
+# How to Create ERC20/BEP20 Honeypot Contracts
 
-## BSC ADVANCED CODE HONEYPOT EXAMPLE (without proxy):
+## Contents
 
-https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
+### Honeypot Contract Tutorials and Examples
 
-https://www.coinsniper.net/coin/16153
+- Hello Honeypot: HelloPixiu
+- Deception with Extra Long Spaces: WhaleGiveaway1
+- Pie Falling from the Sky: Gift_1_ETH
+- Contracts Always Have More Money: MultiplicatorX3
+- Who is the Contract Master: TestBank
+- Cryptocurrency Roulette Wheel: CryptoRoulette
+- Open Address Lottery: OpenAddressLottery
+- Variable Overriding Caused by Solidity Struct Local Variables
+- King of the Hill: KingOfTheHill
+- Ethereum Race Game: RACEFORETH
+- Hacker's Exploit Techniques
+- Private Bank (Reentrancy Vulnerability): PrivateBank
+- Deceptive Address Swap (Access Control): firstTest
+- Just a Test? (Integer Overflow): For_Test
+- Dividend Distribution (Old Compiler Vulnerability): DividendDistributor
 
-https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA
+### Honeypot Contract Beginner Version Implementation and Explanation (Suitable for Beginners)
 
-## Pack Content: 
+- Only the owner has permission to sell tokens
+- Owners can change smart contract rules at any time
+- Extremely low gas for bulk token issuance
+- Bulk wallet address creation
 
-1. Simple Code
- - Just the owner can sell, burn adress to owner.
-    
-2. Advanced Code
- - Just the owner can sell, burn adress to owner, inflated starting price, whitelist some address (for make more legit when sell), timer for ban sales (the token is legit at the beginning) and more. (tips in the txt "help" inside the pack)
-   
-3. Legit Functions
- - Bypass some honeypot detectors and make verification on bscscan with some hidden functions.
-4. Proxy
- - Changeable contract, and you can hide the entire real code of your contract.
-      
-****Price**:**
+### Honeypot Contract Intermediate Version Implementation and Explanation
 
-- **BSC Full Pack (advanced & legit): 0.2 bnb**  (+2 tutorial video)
-- **BSC Full Pack PLUS (bsc full pack + proxy): 0.4 bnb**  (+3 tutorial video)
+- Implement conditional dynamic sales bans, small amount release, large amount ban, evasion of some honeypot detections
+- Set sale timers, etc., to ensure the legitimacy of tokens in the initial stage
+- How to calculate DEX token pair contract addresses, implement advanced honeypot contracts
+- Dynamic whitelist and blacklist setting, implicit honeypot contract implementation
+- Low-cost token dispersion, increase the number of holding addresses, evade some honeypot detections
 
+### Honeypot Contract Advanced Version Implementation and Explanation
 
-## How to buy?
-- BSC address: 0x5bBdC61338029d7063Bd4216d7975d7e11c27Eb9
-- email: hacker@honeypot.boo
+- How to operate DEX trades through contracts and display as "random" addresses in the on-chain data browsers ([basescan](https://basescan.org/tx/0x9de5563e52b60e81b91c3d0f3b4445b413156ef31f97f37b82753dd0e8f4a3a3)|[bscscan](https://bscscan.com/tx/0xcf7625872bd52baaef928752a5e22c53292bc0f8eaff46e764a5d2dd77e49daf))
+- Using proxy functions to implement implicit bans, bypass honeypot detection scripts, nightmare for trading bots
+- Using hidden functions for contract verification on blockchain browsers
+- Honeypot checker principles, and 5 ways to bypass honeypot detectors
 
+## Pricing
 
-1. Send the bnb to the address, take the link of the transaction and send it to my email .
-2. You will receive the pack in your email after validation.
-3. You will receive the videos by email explaining how it works and what to change in the contract, how to whitelist, create inflation (mint new tokens to a specific address) and more.
+| Content                                                         | Price     |
+| -----------------------------------------------------------      | -------   |
+| Honeypot Contract Tutorials and Examples + Beginner Version Implementation | 0.1 eth |
+| Honeypot Contract Tutorials and Examples + Beginner + Intermediate Version Implementation | 0.3 eth |
+| Honeypot Contract Tutorials and Examples + Beginner + Intermediate + Advanced Version Implementation | 0.5 eth |
 
+## ERC20 Code Examples
 
-### DONT FORGET
+[Example 1](https://dexscreener.com/base/0xed3d2e85aac07503933a1f813a27fdd0384c9984) | 
+[Example 2](https://www.dextools.io/app/cn/base/pair-explorer/0x12279c46ecce850443ca875948459c231e25b6af) | 
+[Example 3](https://www.dextools.io/app/cn/base/pair-explorer/0xed3d2e85aac07503933a1f813a27fdd0384c9984)
 
-- The order has a 1-day delivery time.
+## BEP20 Code Examples
+
+[Example 1](https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa) | 
+[Example 2](https://www.coinsniper.net/coin/16153) | 
+[Example 3](https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA)
+
+## How to Purchase?
+
+ETH Address: `0x5bBdC61338029d7063Bd4216d7975d7e11c27Eb9`
+Email: `hacker@honeypot.boo`
+Send BNB to the specified address, obtain the transaction link, and send via email. Once verified, you will receive the package in an email. You will also receive an explanatory video by email, introducing how to operate and modify smart contracts, how to conduct whitelist verification, how to introduce inflation (minting new tokens to specific addresses), and so on.
+
+## Disclaimer
+
+This tutorial is for personal research and learning only. Do not use it for illegal purposes. You are solely responsible for any consequences that arise from your actions.
